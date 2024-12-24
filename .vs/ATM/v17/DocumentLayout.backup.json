@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\y gopal\\source\\repos\\atm\\winformsapp1\\ministatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\ministatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\y gopal\\source\\repos\\atm\\winformsapp1\\ministatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\ministatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\y gopal\\source\\repos\\atm\\winformsapp1\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\y gopal\\source\\repos\\atm\\winformsapp1\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\y gopal\\source\\repos\\atm\\winformsapp1\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\y gopal\\source\\repos\\atm\\winformsapp1\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\y gopal\\source\\repos\\atm\\winformsapp1\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\y gopal\\source\\repos\\atm\\winformsapp1\\withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\y gopal\\source\\repos\\atm\\winformsapp1\\withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\y gopal\\source\\repos\\atm\\winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\Y Gopal\\source\\repos\\ATM\\winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\y gopal\\source\\repos\\atm\\winformsapp1\\change pin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\change pin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\y gopal\\source\\repos\\atm\\winformsapp1\\change pin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\change pin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\y gopal\\source\\repos\\atm\\winformsapp1\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\y gopal\\source\\repos\\atm\\winformsapp1\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\y gopal\\source\\repos\\atm\\winformsapp1\\balance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\balance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\y gopal\\source\\repos\\atm\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\y gopal\\source\\repos\\atm\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C88C5E-EC81-4CEB-AFA2-08A36B65FC00}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MiniStatement.cs",
+              "DocumentMoniker": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\MiniStatement.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\MiniStatement.cs",
+              "ToolTip": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\MiniStatement.cs",
+              "RelativeToolTip": "WinFormsApp1\\MiniStatement.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA8wCEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:05:27.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Deposit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Deposit.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Deposit.cs",
+              "ToolTip": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Deposit.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Deposit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:17:38.875Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Deposit.cs",
+              "DocumentMoniker": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Deposit.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Deposit.cs",
+              "ToolTip": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Deposit.cs",
+              "RelativeToolTip": "WinFormsApp1\\Deposit.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:17:42.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MiniStatement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\MiniStatement.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\MiniStatement.cs",
+              "ToolTip": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\MiniStatement.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\MiniStatement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:04:13.238Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HOME.cs",
+              "DocumentMoniker": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\HOME.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\HOME.cs",
+              "ToolTip": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\HOME.cs",
+              "RelativeToolTip": "WinFormsApp1\\HOME.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:07:15.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HOME.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\HOME.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\HOME.cs",
+              "ToolTip": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\HOME.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\HOME.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:07:10.35Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Account.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Account.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Account.cs",
+              "ToolTip": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Account.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Account.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:02:44.758Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Withdraw.cs",
+              "DocumentMoniker": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Withdraw.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Withdraw.cs",
+              "ToolTip": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Withdraw.cs",
+              "RelativeToolTip": "WinFormsApp1\\Withdraw.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:54:34.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Withdraw.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Withdraw.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Withdraw.cs",
+              "ToolTip": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Withdraw.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Withdraw.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:54:01.195Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Login.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Login.cs",
+              "ToolTip": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Login.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:53:43.353Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Login.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Login.cs",
+              "ToolTip": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Login.cs",
+              "RelativeToolTip": "WinFormsApp1\\Login.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswCsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:48:23.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Change Pin.cs",
+              "DocumentMoniker": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Change Pin.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Change Pin.cs",
+              "ToolTip": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Change Pin.cs",
+              "RelativeToolTip": "WinFormsApp1\\Change Pin.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:41:06.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Change Pin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Change Pin.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Change Pin.cs",
+              "ToolTip": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Change Pin.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Change Pin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:40:15.799Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Balance.cs",
+              "DocumentMoniker": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Balance.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Balance.cs",
+              "ToolTip": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Balance.cs",
+              "RelativeToolTip": "WinFormsApp1\\Balance.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:10:55.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Balance.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Balance.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Balance.cs",
+              "ToolTip": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Balance.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Balance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:10:53.34Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Balance.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Balance.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Balance.Designer.cs",
+              "ToolTip": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Balance.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Balance.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:18:03.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Program.cs",
+              "RelativeToolTip": "WinFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:55:49.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Y Gopal\\source\\repos\\ATM\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:52:32.868Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
